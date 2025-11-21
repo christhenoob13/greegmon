@@ -1,0 +1,61 @@
+{
+  "projects": [
+    {
+      "title": "Better Chat Ranks",
+      "description": "add Customizable player ranks that appear in chat messages and next to player names. Perfect for servers, the ranks help distinguish roles like Admin, Mod, or VIP directly in chat!",
+      "thumbnail": "assets/projects/betterchatranks.jpg",
+      "tags": [
+        { "text": "Javascript", "color": "yellow-600" },
+        { "text": "Minecraft", "color": "green-800" }
+      ],
+      "src": "https://www.curseforge.com/minecraft-bedrock/scripts/betterchatranks"
+    },{
+      "title": "Shop GUI",
+      "description": "Sell your item anywhere by simply typing command",
+      "thumbnail": "assets/projects/shop-gui.png",
+      "tags": [
+        {"text": "Javascript", "color": "yellow-600"},
+        { "text": "Minecraft", "color": "green-800" }
+      ],
+      "src": "https://www.curseforge.com/minecraft-bedrock/scripts/advance-shopgui"
+    },{
+      "title": "Toggle Night Vision",
+      "description": "Minecraft Addon that allows player to toggle night vision effect by simply typing `/nvision` command",
+      "thumbnail": "assets/projects/nvision.png",
+      "tags": [
+        {"text": "Javascript", "color": "yellow-600"},
+        { "text": "Minecraft", "color": "green-800" }
+      ],
+      "src": "https://www.curseforge.com/minecraft-bedrock/addons/toggle-night-vission"
+    },{
+      "title": "Easy Perspective",
+      "description": "Change camera perspective using simple command",
+      "thumbnail": "assets/projects/easy-perspective.jpg",
+      "tags": [
+        { "text": "Javascript", "color": "yellow-600" },
+        { "text": "Minecraft", "color": "green-800" }
+      ],
+      "src": "https://www.curseforge.com/minecraft-bedrock/scripts/easy-perspective"
+    },{
+      "title": "Better Spectator",
+      "description": "Spectate players and monitor what they are doing and can also change the camera angle for better view.",
+      "thumbnail": "assets/projects/better-spectator.png",
+      "tags": [
+        { "text": "Javascript", "color": "yellow-600" },
+        { "text": "Minecraft", "color": "green-800" }
+      ],
+      "src": "https://www.curseforge.com/minecraft-bedrock/addons/advance-spectator"
+    },{
+      "title": "Telebot",
+      "description": "Automated telegram bot lets you build and customized telegram bots for free. No coding required",
+      "thumbnail": "assets/projects/telebot.jpg",
+      "tags": [
+        { "text": "Python", "color": "cyan-800" },
+        { "text": "HTML", "color": "amber-800" },
+        { "text": "Javascript", "color": "yellow-600" },
+        { "text": "Tailwind", "color": "sky-500" }
+      ],
+      "src": "https://github.com/christhenoob13/telebot"
+    }
+  ]
+}
