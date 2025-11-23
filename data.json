@@ -1,6 +1,14 @@
 {
   "projects": [
     {
+      "title": "Player One Heart",
+      "description": "Make your survival world more challenging",
+      "thumbnail": "assets/projects/oneheart.png",
+      "tags": [
+        { "text": "Javascript", "color": "yellow-600" },
+        { "text": "Minecraft", "color": "green-800" }
+      ]
+    },{
       "title": "Better Chat Ranks",
       "description": "add Customizable player ranks that appear in chat messages and next to player names. Perfect for servers, the ranks help distinguish roles like Admin, Mod, or VIP directly in chat!",
       "thumbnail": "assets/projects/betterchatranks.jpg",
