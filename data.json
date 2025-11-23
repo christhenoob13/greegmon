@@ -7,7 +7,8 @@
       "tags": [
         { "text": "Javascript", "color": "yellow-600" },
         { "text": "Minecraft", "color": "green-800" }
-      ]
+      ],
+      "src": "https://www.curseforge.com/minecraft-bedrock/addons/player-one-heart"
     },{
       "title": "Better Chat Ranks",
       "description": "add Customizable player ranks that appear in chat messages and next to player names. Perfect for servers, the ranks help distinguish roles like Admin, Mod, or VIP directly in chat!",
