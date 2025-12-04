@@ -1,0 +1,18 @@
+{
+  "1-21-124": {
+    "version": "1.21.124",
+    "changelog": "https://feedback.minecraft.net/hc/en-us/articles/41224903492621-Minecraft-1-21-124-Bedrock",
+    "description": "Get it for free! Release version. The Copper Age Update.",
+    "downloads": [
+      {
+        "option": "Xbox+servers, no music",
+        "size": "426 MB",
+        "link": "https://mcpedl.org/uploads_files/21-11-2025/minecraft-1-21-124.apk"
+      },{
+        "option": "Xbox+servers, +music",
+        "size": "684 MB",
+        "link": "https://mcpedl.org/uploads_files/21-11-2025/minecraft-1-21-124-music.apk"
+      }
+    ]
+  }
+}

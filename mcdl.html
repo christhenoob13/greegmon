@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Download Minecraft</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <style type="text/tailwindcss">
+    tbody > tr {
+      @apply border
+    }
+  </style>
+  <style>
+    @font-face {
+      font-family: 'mojang';
+      src: url('assets/Mojangles.ttf');
+    }
+    *{font-family: 'mojang'};
+  </style>
+</head>
+<body class="bg-gray-100">
+  <div class="container mx-auto p-5">
+    <p class="text-gray-600 text-xs text-center">Minecraft Bedrock allows you to play the Minecraft game with your friends and collaborate with others. Download Minecraft Bedrock Edition to enjoy the latest updates.</p>
+    <br>
+    <label for="version" class="block text-sm pl-1">Select Version</label>
+    <select name="version" id="version" class="block p-2 w-[70%] md:w-[30%] bg-white border rounded-lg outline-none">
+      <!-- VERSIONS -->
+    </select>
+    <br><hr><br>
+    <div id="item" class="bg-white border rounded-md p-3">
+      
+      <div class="flex gap-3 text-sm">
+        <div class="min-h-20 max-h-20 max-w-20 min-w-20">
+          <img src="assets/mclogo.jpeg" alt="Minecraft" class="rounded-md w-full h-full">
+        </div>
+        <div>
+          <p>Version: 1.21.124</p>
+          <p>Changelog: <a href="#" class="text-green-600 underline">Click</a></p>
+          <p class="text-xs text-gray-600">Get it for free! Release version. The Copper Age Update.</p>
+        </div>
+      </div>
+      
+      <table class="w-full border mt-5">
+        <thead class="text-heading text-left border-b bg-gray-200">
+          <tr>
+            <th scope="col" class="font-semibold py-1 px-3">Options</th>
+            <th scope="col" class="font-semibold py-1 px-3">Download</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="p-2 py-1 text-sm">Xbox+servers, no music</td>
+            <td class="p-2 py-1 text-xs">
+              <button class="bg-green-200 text-green-800 rounded-sm p-2 px-6 hover:bg-green-600 hover:text-green-200">420 MB</button>
+            </td>
+          </tr>
+          <tr>
+            <td class="p-2 py-1 text-sm">Xbox+servers, +music</td>
+            <td class="p-2 py-1 text-xs">
+              <button class="bg-green-200 text-green-800 rounded-sm p-2 px-5 hover:bg-green-600 hover:text-green-200">750 MB</button>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+      
+    </div>
+  </div>
+<script src="mcdl.js"></script>
+</body>
+</html>
