@@ -14,5 +14,21 @@
         "link": "https://mcpedl.org/uploads_files/21-11-2025/minecraft-1-21-124-music.apk"
       }
     ]
+  },
+  "1-21-130": {
+    "version": "1.21.130",
+    "changelog": "https://www.minecraft.net/en-us/article/minecraft-1-21-130-bedrock-changelog",
+    "description": "Release version. The Mounts of Mayhem Update.",
+    "downloads": [
+      {
+        "option": "Xbox+servers, no music",
+        "size": "426 MB",
+        "link": "https://mcpedl.org/uploads_files/09-12-2025/minecraft-1-21-130.apk"
+      },{
+        "option": "Xbox+servers, +music",
+        "size": "690 MB",
+        "link": "https://mcpedl.org/uploads_files/09-12-2025/minecraft-1-21-130-music.apk"
+      }
+    ]
   }
 }
