@@ -36,7 +36,7 @@ function display({ version, changelog, description, downloads }){
 }
 
 function main(data) {
-  const versions = Object.keys(data).map(a=>a.replaceAll('-','.'));
+  const versions = Object.keys(data).map(a=>a.replaceAll('-','.')).reverse();
   const versionInput = document.getElementById('version');
   
   
